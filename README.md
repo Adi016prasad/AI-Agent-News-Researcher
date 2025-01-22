@@ -1,6 +1,6 @@
 # AI-Agent-News-Researcher
 
-Try here. It is live in hugging face
+Try here. It is live in hugging face.
 
 https://huggingface.co/spaces/Adi016/AIAgentnewsresearcher
 
